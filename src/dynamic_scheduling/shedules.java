@@ -5,17 +5,10 @@
  */
 package dynamic_scheduling;
 
-/**
- *
- * @author p.charde
- */
-public class Dynamic_scheduling{
-    
-    public static void main(String[] args) {
-       
-        schedules Schedule=new schedules();
-          Schedule.result();
+
+public class shedules {
+      
         
     }
     
-}
+
